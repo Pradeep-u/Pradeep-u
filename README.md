@@ -4,9 +4,6 @@
 - 🌱 I’m currently learning **Graphic Designing,react,vue etc**
 
 - 📫 How to reach me **u.pradeep.uk@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XmNgPvrk2NjZ9KeKxSkr2PqULaQQIu-a/view?usp=sharing](https://drive.google.com/file/d/1XmNgPvrk2NjZ9KeKxSkr2PqULaQQIu-a/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/pradeep_u_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pradeep_u_" height="30" width="40" /></a>
