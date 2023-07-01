@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradeep U</h1>
 <h3 align="center">UI UX Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://media.tenor.com/p2eovClgAMoAAAAd/designer-coffee-break.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/p2eovClgAMoAAAAd/designer-coffee-break.gif](https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif)">
 
 - 🌱 I’m currently learning **Designing**
 
