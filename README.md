@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my Designes are available at [Behance](https://www.behance.net/pradeep_utarget="_blank")
+- 👨‍💻 All of my Designes are available at [Behance](https://www.behance.net/pradeep_u)
 
 - 📝 Final UI UX Case Study [Tiny Paws](https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2)
 
