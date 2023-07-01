@@ -20,7 +20,6 @@
 <a href="https://dribbble.com/pradeep_u_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pradeep_u_" height="30" width="40" target="_blank"/></a>
 <a href="https://www.behance.net/pradeep_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pradeep_u" height="30" width="40" target="_blank"/></a>
 <a href="https://medium.com/@u.pradeep.uk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@u.pradeep.uk" height="30" width="40" target="_blank"/></a>
-<a href="https://www.youtube.com/c/uccnfry7hl0a1xocgqdbq-vq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccnfry7hl0a1xocgqdbq-vq" height="30" width="40" target="_blank"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
