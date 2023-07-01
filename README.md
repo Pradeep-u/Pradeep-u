@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [pradeep_u](https://www.behance.net/pradeep_u)
 
-- 📝 I regularly write articles on [https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2](https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2)
+- 📝 I regularly write articles on [Ui/Ux Case Study](https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2)
 
 - 💬 Ask me about **Ui/Ux Designing**
 
