@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep U</h1>
-<h3 align="center">UI/UX Designer</h3>
+<h3 align="center">UI UX Designer</h3>
 
 - 🌱 I’m currently learning **Designing**
 
