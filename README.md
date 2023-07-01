@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my Designes are available at [pradeep_u](https://www.behance.net/pradeep_u)
 
-- 📝 Final [UI UX Case Study](https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2)
+- 📝 Final UI UX Case Study[Tiny Paws](https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2)
 
 - 💬 Ask me about **UI UX Designing**
 
