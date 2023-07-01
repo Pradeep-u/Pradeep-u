@@ -2,11 +2,11 @@
 <h3 align="center">UI UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/graphic-design-6319116-5203662.png">
 
-- 🌱 I’m currently learning **Designing**
+- 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [pradeep_u](https://www.behance.net/pradeep_u)
+- 👨‍💻 All of my Designes are available at [pradeep_u](https://www.behance.net/pradeep_u)
 
-- 📝 I regularly write articles on [Case Study](https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2)
+- 📝 Final [UI UX Case Study](https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2)
 
 - 💬 Ask me about **UI UX Designing**
 
