@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [pradeep_u](https://www.behance.net/pradeep_u)
 
-- 📝 I regularly write articles on [Ui/Ux Case Study](https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2)
+- 📝 I regularly write articles on [Case Study](https://medium.com/@u.pradeep.uk/tiny-paws-891302e25fb2)
 
-- 💬 Ask me about **Ui/Ux Designing**
+- 💬 Ask me about **UI UX Designing**
 
 - 📫 How to reach me **u.pradeep.uk@gmail.com**
 
