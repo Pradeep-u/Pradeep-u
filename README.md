@@ -2,7 +2,7 @@
 <h3 align="center">UI UX Designer</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn3d.iconscout.com/3d/premium/thumb/graphic-design-6319116-5203662.png">
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Web Development **
 
 - 👨‍💻 All of my Designes are available at [Behance](https://www.behance.net/pradeep_u)
 
