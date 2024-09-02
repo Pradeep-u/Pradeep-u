@@ -26,7 +26,7 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,ps,ai,ae,xd" />
-    <img src="https://skillicons.dev/icons?i=python,javascript" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,xd,bootstrap,html,css,vscode,github," />
+    <img src="https://skillicons.dev/icons?i=javascript" />
 </div>
 
