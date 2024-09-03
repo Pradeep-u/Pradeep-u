@@ -20,6 +20,10 @@
    <a href="https://codepen.io/pradeep_u_" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-333333?style=for-the-badge&logo=Codepen&logoColor=white" target="_blank" />
   </a>
+
+  <a href="https://codepen.io/pradeep_u_" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-333333?style=for-the-badge&logo=Codepen&logoColor=white" target="_blank" />
+  </a>
   
 </div>
 
