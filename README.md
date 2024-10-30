@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=javascript" />
 </div>
 <br>
-<div align="center">
+<div>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeep-u&show_icons=true&locale=en&layout=compact" alt="pradeep-u" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-u&" alt="pradeep-u" /></p>
 </div>
