@@ -41,5 +41,5 @@
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,xd,bootstrap,html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=javascript" />
 </div>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-u&" alt="pradeep-u" /></p>
